@@ -1,0 +1,5 @@
+-    Minimize Attack Surface Area
+-    Principle of Least Privilege
+-    Secure Defaults
+-    Encrypt Sensitive Data
+-    Maintain Security Updates
