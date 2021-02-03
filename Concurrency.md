@@ -5,7 +5,7 @@
 - Shared resources not only includes memory refs, but also Files/Network resources/DB etc, access them in concurrent-safe manner too.
 
 #### Actor model
-- Actor model for concurrency, [Learn more about it](https://www.google.com/search?q=actor%20model%20concurrency).
+- Actor model for concurrency, [Learn more about it](https://www.google.com/search?q=actor%20model%20concurrency), also [this](https://doc.akka.io/docs/akka/current/general/index.html)
 It is similar to go routines that pass the messages through channels and do not share the memory, Actor model is widely used in Erlang/Elixir and there are other language implementations.
 
 #### Blackboards
