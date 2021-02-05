@@ -1,0 +1,4 @@
+- Individual who works or aware of multiple team or with differnt part of org can glue up thing better.
+- Client does not care about code.
+- Understand the expectations and objective of the project being built.
+- Suggest them or give them alternate solutuion which is moving the project to the objective.
